@@ -1,4 +1,4 @@
-<img src="./assets/images/banner.png" alt="Daniel Lamas - Banner animado" width="100%" />
+<img src="./assets/banner.png" alt="Daniel Lamas - Banner animado" width="100%" />
 
 
  **Software Architecture | AI & Process Optimization Enthusiast**
