@@ -1,4 +1,5 @@
-<img src="./assets/banner.png" alt="Daniel Lamas" width="100%" />
+<img src="https://raw.githubusercontent.com/dlamas685/dlamas685/main/assets/banner.png" alt="Daniel Lamas" style="max-width: 100%; height: auto;" />
+
 
 
  **Software Architecture | AI & Process Optimization Enthusiast**
