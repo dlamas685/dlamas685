@@ -1,4 +1,4 @@
-<img src="./assets/gifs/banner.gif" alt="Daniel Lamas - Banner animado" width="100%" />
+<img src="./assets/images/banner.png" alt="Daniel Lamas - Banner animado" width="100%" />
 
 
 ### Hi there! I'm Daniel Ignacio Lamas <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
