@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel Ignacio
+# 👋 Hi, I'm Daniel Ignacio
 
 ## 📊 GitHub Stats
 
@@ -8,8 +8,6 @@
 ## 📫 Contacto
 
 📧 **daniel@dlamas.pro**  
-
-> 💬 *Siempre estoy abierto a charlar sobre tecnología, ideas de proyectos o simplemente compartir experiencias. ¡No dudes en contactarme!*
 
 <!--
 **dlamas685/dlamas685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
