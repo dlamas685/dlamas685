@@ -1,8 +1,7 @@
 <img src="./assets/images/banner.png" alt="Daniel Lamas - Banner animado" width="100%" />
 
 
-### Hi there! I'm Daniel Ignacio Lamas <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
- **Full Stack Developer | Software Architecture | AI & Process Optimization Enthusiast**
+ **Software Architecture | AI & Process Optimization Enthusiast**
 
 I'm a full stack developer with a strong background in Computer Engineering — currently awaiting my final degree exam.
 I’m passionate about artificial intelligence, intelligent process automation, and designing clean, scalable software architectures that deliver real-world value.
