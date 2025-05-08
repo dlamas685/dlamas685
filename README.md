@@ -1,3 +1,6 @@
+<img src="./assets/images/banner-en.png" alt="Daniel Lamas - Banner animado" width="100%" />
+
+
 ### Hi there! I'm Daniel Ignacio <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
  **Full Stack Developer | Software Architecture | AI & Process Optimization Enthusiast**
 
