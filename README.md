@@ -1,13 +1,12 @@
+
 <img src="https://raw.githubusercontent.com/dlamas685/dlamas685/main/assets/banner.png" alt="Daniel Lamas" style="max-width: 100%; height: auto;" />
 
 
+ **Full Stack Developer | Enthusiast of AI, software architecture, and process optimization**
 
- **Software Architecture | AI & Process Optimization Enthusiast**
+I am a Computer Engineer with a solid background in web development, focusing more on frontend development. Currently, I work as a full stack developer. I am passionate about everything related to artificial intelligence, process optimization, and software architecture design. When developing systems, my main goal is to incorporate quality as part of the process, focusing on best practices, accessibility, and performance.
 
-I'm a full stack developer with a strong background in Computer Engineering — currently awaiting my final degree exam.
-I’m passionate about artificial intelligence, intelligent process automation, and designing clean, scalable software architectures that deliver real-world value.
-I combine frontend, backend, and distributed systems expertise to tackle complex challenges, always focused on best practices, accessibility, and performance.
-  
+
 ### GitHub Stats
 
 ![Estadísticas de Daniel](https://github-readme-stats-mu-three-35.vercel.app/api?username=dlamas685&show_icons=true&count_private=true&theme=default)
