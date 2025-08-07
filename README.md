@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/dlamas685/dlamas685/main/assets/banner.png" alt="Daniel Lamas" style="max-width: 100%; height: auto;" />
+<img src="https://res.cloudinary.com/dpnrflmo9/image/upload/v1754532356/github_zbyrce.png" alt="Daniel Lamas" style="max-width: 100%; height: auto;" />
 
 
  **Full Stack Developer | Enthusiast of AI, software architecture, and process optimization**
